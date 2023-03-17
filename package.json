@@ -1,0 +1,19 @@
+{
+  "name": "screen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "downloadjs": "^1.4.7",
+    "mkdirp": "^0.5.1",
+    "node-fetch": "^2.3.0",
+    "request": "^2.88.0",
+    "unsplash-js": "^5.0.0"
+  }
+}
